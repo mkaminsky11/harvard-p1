@@ -1,6 +1,6 @@
 #P1 for Dynamic Web Applications#
 
-This is the P1 assignment, and is about me. That's about it.
+This is the P1 assignment, and is about me. That's about it. The live website is <a href="https://codeyourcloud.com/harvard/harvard-p1/">here</a>.
 
 #####Goals#####
 <ol>
@@ -13,3 +13,9 @@ This is the P1 assignment, and is about me. That's about it.
 	<li>Are you working on a Mac, PC, or some other platform?</li>
 	<li>Anything else we should know?</li>
 </ol>
+
+#####Resources#####
+<ul>
+	<li><a href="http://designmodo.github.io/Flat-UI/">Flat UI</a>, a flat Boostrap theme</li>
+	<li><a href="http://getbootstrap.com">Bootstrap</a>, a front-end framework for HTML, CSS, and Javascript</li>
+</ul>

@@ -73,12 +73,12 @@
 		<br>
 		
 		<h3>PHP Experience</h3>
-		<h6>I have never used PHP before. I am familiar with server-side applications, but use Node.js (javascript).</h6>
+		<h6>I have never used PHP before. I am familiar with server-side applications, but use Node.js. It think javascript is a superior language, but am excited to learn about PHP, which is widely used, and has a large developer community.</h6>
 		
 		<br>
 		
 		<h3>Platform</h3>
-		<h6>I work primarily with a Mac, but occasionally with Windows, depending on my location at any given time. I have experience with Linux, as my personal server is a <code>LAMP</code> server.</h6>
+		<h6>I work primarily with a Mac, but occasionally with Windows, depending on my location at any given time. I have experience with Linux, as my personal server is a LAMP server.</h6>
 		
 		<br>
 		
