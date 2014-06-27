@@ -19,3 +19,5 @@ This is the P1 assignment, and is about me. That's about it. The live website is
 	<li><a href="http://designmodo.github.io/Flat-UI/">Flat UI</a>, a flat Boostrap theme</li>
 	<li><a href="http://getbootstrap.com">Bootstrap</a>, a front-end framework for HTML, CSS, and Javascript</li>
 </ul>
+
+It's also been <a href="http://validator.w3.org/check?uri=https%3A%2F%2Fcodeyourcloud.com%2Fharvard%2Fharvard-p1%2F">validated</a> by W3, so the HTML is sound.
