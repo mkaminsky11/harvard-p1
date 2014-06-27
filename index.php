@@ -38,8 +38,8 @@
 			<li><a href="http://mkaminsky11.github.io#contact">Contact</a></li>
 		</ul>
 		<ul class="nav navbar-nav navbar-right">
-			<li><a id="quote"></a></li>
-			<li id="google-plus"><a href="https://plus.google.com/u/0/+michaelkaminsky/posts" id="gplus" class="btn btn-danger"><i class="fa fa-google-plus"></i></a></li>
+			<li><a href="https://plus.google.com/u/0/+michaelkaminsky/posts"><i class="fa fa-google-plus"></i></a></li>
+			<li class="github"><a href="https://github.com/mkaminsky11/harvard-p1"><i class="fa fa-github"></i></a></li>
 		</ul>
 	</div>
 	</nav>
@@ -62,7 +62,7 @@
 			<img src="images/snap.png" id="snap">
 			<div id="image">
 				<p>
-				Code Your Cloud is an in-browser code editor which I have worked on for about a year, and it has about 2000 users. It uses Bootstrap and Google Drive APIS
+				Code Your Cloud is an in-browser code editor which I have worked on for abosut a year, and it has about 2000 users. It uses Bootstrap and Google Drive APIS. It's pretty cool.
 				</p>
 			</div>
 		<br>

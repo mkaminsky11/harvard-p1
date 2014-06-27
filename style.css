@@ -4,19 +4,8 @@
 	margin-top: 63px;
 	margin-bottom: 63px;
 }
-#google-plus{
-	margin-right: 30px;
-}
 #main h3, #main small, #main h6{
 	text-align: center;
-}
-#gplus{
-	padding: 10px;
-	margin-top:5px;
-}
-#gplus:hover{
-	background-color:#C0392B;
-	color:white;
 }
 #me{
 	margin-left: calc(50% - 100px);
@@ -75,4 +64,7 @@ footer{
 	float: left;
 	margin-left: 5px;
 	margin-top: 5px;
+}
+.github{
+	margin-right: 40px;
 }
