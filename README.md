@@ -2,7 +2,7 @@
 
  This is the P1 assignment, and is about me. That's about it. The live website is <a href="https://codeyourcloud.com/harvard/harvard-p1/">here</a>.
 
- #####Goals#####
+####Goals####
 
 <ol>
 	<li>In 2+ sentences describe who you are and what you do.</li>
