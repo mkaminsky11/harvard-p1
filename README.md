@@ -1,6 +1,6 @@
 #P1 for Dynamic Web Applications#
 
- This is the P1 assignment, and is about me. That's about it. The live website is <a href="https://codeyourcloud.com/harvard/harvard-p1/">here</a>.
+ This is the P1 assignment, and is about me. That's about it.
 
 ####Goals####
 
